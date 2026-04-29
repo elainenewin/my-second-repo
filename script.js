@@ -1,7 +1,8 @@
 // Teaching Philosophy Text Split into Two Paragraphs
-const philosophyText1 = ` `;
+const philosophyText1 = `Hi, im Elaine and im a student at Mater Dei High School and I'm learning web design. This year I've built games, tools, and interactive projects using HTML, CSS, and JavaScript.`;
 
-const philosophyText2 = ``
+const philosophyText2 = `I'm intrested in playing Valorant, baking, and hanging out with my friends. These projects show what I've
+learned so far.`
 const para1 = document.getElementById("philosophy-text-1");
 const para2 = document.getElementById("philosophy-text-2");
 
